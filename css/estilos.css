@@ -28,21 +28,14 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #333;
+    border: 1px solid white;
     margin: 0 auto;
+    background-color: white;
 }
 #container h1{
-<<<<<<< HEAD
-    font-size: 40px;
-}
-#post{
-    background: white;
-    padding: 1em;
-}
-=======
     font-size: 20px;
 }
-#footer{
+#container #footer{
     background: #777;
     color: white;
     text-align: center;
@@ -51,4 +44,3 @@ body{
 }
 
 
->>>>>>> footer
